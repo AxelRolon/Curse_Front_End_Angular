@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    <body>
+      <div>
+        <ol>
+            <h1 style="color: aqua;">Lista ordenada</h1>
+          <li>Este es mi primer comentario de dos líneas</li>
+          <li>Aprendiendo a documentar mi código con OpenBootcamp</li>
+        </ol>
+      </div>
+      <div>
+        <h2 style="color: darkcyan;">Listas desordenadas de videos Favoritos Youtube</h2>
+        <ul>
+          <li>
+            <a
+              href="https://www.youtube.com/watch?v=dJaY43Butm8&t=16026s&ab_channel=LaTecnolog%C3%ADaAvanza"
+            >Curso práctico de APIs REST en Spring Boot con JWT , Spring Security , MySQL y Spring Data JPA</a>
+          </li>
+          <li><a href="https://www.youtube.com/watch?v=VVn9OG9nfH0&ab_channel=Amigoscode">Spring Boot and Spring Security with JWT including Access and Refresh Tokens</a></li>
+          <li><a href="https://www.youtube.com/watch?v=tI-5uv4wryI&list=RDMMtI-5uv4wryI&start_radio=1&ab_channel=OasisVEVO">Oasis - Champagne Supernova (Official Video)</a></li>
+        </ul>
+      </div>
+    </body>
+  </head>
+</html>
