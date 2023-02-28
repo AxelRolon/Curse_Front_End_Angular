@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+#lista-ordenada{
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    font-style: oblique;
+    color: burlywood;
+}
+
+#primer-elemento{
+    color: red;
+    font-size: 2rem;
+}
