@@ -1,0 +1,16 @@
+.galeria-de-imagenes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+    
+    .galeria-de-imagenes img{
+    width: 300px;
+    margin-bottom: 20px;
+    }
+    
+    
+    
+    
+    
+    
