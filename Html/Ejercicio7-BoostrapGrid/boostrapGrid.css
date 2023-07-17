@@ -1,0 +1,36 @@
+.col{
+    max-width:max-content ;
+    background-color: rgb(43, 159, 174);
+}
+.col-sm{
+    background-color: aquamarine;
+    border: 1px;
+    border-radius: 2px;
+    border-color: black
+}
+.col-md{
+    background-color: rgb(77, 152, 39);
+    border: 1px;
+    border-radius: 2px;
+    border-color: black
+}
+.col-lg{
+    background-color: rgb(36, 18, 75);
+    border: 1px;
+    border-radius: 2px;
+    border-color: black
+}
+.col-xl{
+    background-color: rgb(152, 145, 117);
+    border: 1px;
+    border-radius: 2px;
+    border-color: black
+}
+.col-xxl{
+    max-width: max-content;
+    background-color: darkgreen;
+}
+.col-xs{
+    max-width: max-content;
+    background-color: crimson;
+}
