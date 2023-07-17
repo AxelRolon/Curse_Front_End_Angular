@@ -1,0 +1,37 @@
+.contenedor{
+   display: flex;
+   border-radius: 5px;
+   background-color: aliceblue;
+}
+
+.barraLateral{
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 5px;
+/* border-radius: 10px; */
+/* border-color: black; */
+}
+.seccionPrincipal{
+  flex-grow: 1;
+    margin-top: 0px;
+    padding: 40px;
+  background-color: antiquewhite;
+  align-self: flex-end;
+
+}
+@media screen and (max-width: 640px) {
+    .contenedor {
+      flex-direction: column;
+    }
+  
+    .barraLateral {
+      padding-top: 0;
+      padding-bottom: 20px;
+    }
+  
+    .barraLateral ol {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
